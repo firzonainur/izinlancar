@@ -34,7 +34,7 @@
                                                     <label for="userpassword">Password</label>
                                                 </div>
                                                 <div class="mt-4">
-                                                    <button class="btn btn-success btn-block waves-effect waves-light" type="submit">Log In</button>
+                                                    <a class="btn btn-success btn-block waves-effect waves-light" href="index.php">Login</a>
                                                 </div>
                                                 <div class="mt-4 text-center">
                                                     <a href="register.php" class="text-muted"><i class="mdi mdi-account-circle mr-1"></i>Atau Buat Akun</a>

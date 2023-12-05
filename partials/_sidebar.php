@@ -155,6 +155,15 @@
                                 </a>
                             </li>
 
+                            <li class="menu-title">Landing Page</li>
+
+                            <li>
+                                <a href="landingpage_home.php" class="waves-effect">
+                                    <div class="d-inline-block icons-sm mr-1"><i class="uim uim-layer-group"></i></div><span class="badge badge-pill badge-success float-right"></span>
+                                    <span>Home</span>
+                                </a>
+                            </li>
+
                         </ul>
 
                     </div>
