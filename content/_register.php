@@ -27,11 +27,19 @@
                                             <div class="col-md-12">
                                                 <div class="form-group form-group-custom mb-4">
                                                     <input type="text" class="form-control" id="username" required>
+                                                    <label for="username">Nama Lengkap</label>
+                                                </div>
+                                                <div class="form-group form-group-custom mb-4">
+                                                    <input type="text" class="form-control" id="username" required>
                                                     <label for="username">Username</label>
                                                 </div>
                                                 <div class="form-group form-group-custom mb-4">
                                                     <input type="email" class="form-control" id="useremail" required>
                                                     <label for="useremail">Email</label> 
+                                                </div>
+                                                <div class="form-group form-group-custom mb-4">
+                                                    <input type="text" class="form-control" id="username" required>
+                                                    <label for="username">No HP</label>
                                                 </div>
                                                 <div class="form-group form-group-custom mb-4">
                                                     <input type="password" class="form-control" id="userpassword" required>

@@ -33,11 +33,11 @@
                                 <ul class="navigation clearfix">
                                     <li ><a href="landingpage_home.php">Home</a>
                                     </li>
-                                    <li><a href="landingpage_layanan.php">Layanan</a>
+                                    <li><a href="landingpage_services.php">Layanan</a>
                                     </li>
                                     <li ><a href="landingpage_about.php">About Us</a>
                                     </li>
-                                    <li ><a href="landingpage_artikel.php">Artikel</a>
+                                    <li ><a href="landingpage_blog.php">Artikel</a>
                                     </li>
                                     <li ><a href="#">Contact Us</a>
                                     </li>
