@@ -146,7 +146,7 @@
                                                                 <div class="badge badge-soft-primary">Dokumen Terkirim</div><br>
                                                                 <div class="badge badge-soft-primary">Dokumen sedang Proses</div><br>
                                                                 <div class="badge badge-soft-primary">Dokumen Disetujui</div><br>
-                                                                    <div class="badge badge-soft-primary">Dokumen Selesai</div><br>
+                                                                <div class="badge badge-soft-primary">Dokumen Selesai</div><br>
                                                             </td>
                                                             <td>30 Hari</td>
                                                             <td>
