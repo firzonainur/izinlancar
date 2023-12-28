@@ -109,7 +109,9 @@
                                                             <th scope="col">Tanggal Daftar</th>
                                                             <th scope="col">Status</th>
                                                             <th scope="col">Permintaan Dokumen</th>
+                                                            <th scope="col">Dokumen Pengirim</th>
                                                             <th scope="col">Aksi</th>
+                                                            <th scope="col">Keterangan</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
@@ -124,17 +126,35 @@
                                                             </td>
                                                             <td>Dokumen Legal : NIB</td>
                                                             <td>
-                                                                <div class="btn-group" role="group">
-                                                                    <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="tooltip" data-placement="top" title="View">
-                                                                        <i class="mdi mdi-eye"></i>
-                                                                    </button>
-                                                                    <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="tooltip" data-placement="top" title="Edit">
-                                                                        <i class="mdi mdi-pencil"></i>
-                                                                    </button>
-                                                                    <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="tooltip" data-placement="top" title="Delete">
-                                                                        <i class="mdi mdi-trash-can"></i>
-                                                                    </button>
+                                                                <a class="btn btn-primary" href="">Dokumen Persyaratan</a>
+                                                            </td>
+                                                            <td>
+                                                               <div class="row">
+                                                                 <div class="form-group form-group-custom mb-4 col-md-6">
+                                                                    <label class="col-form-label">Select</label>
+                                                                        <div class="col-md-12">
+                                                                            <select class="form-control">
+                                                                                <option>Pilih Status</option>
+                                                                                <option>Diterima (Lanjut Upload Persyaratan)</option>
+                                                                                <option>Dokumen Diterima</option>
+                                                                                <option>Dokumen Diproses</option>
+                                                                                <option>Dokumen Disetujui</option>
+                                                                                <option>Selesai</option>
+                                                                            </select>
+                                                                        </div>
                                                                 </div>
+                                                                <div class="form-group form-group-custom mb-4 col-md-6">
+                                                                    <a class="btn btn-success" href="#">Submit</a> <br><br>
+                                                                    <a class="btn btn-success" data-toggle="modal" data-target="#status1" href="#">Diterima (Lanjut Upload Persyaratan)</a><br><br>
+                                                                    <a class="btn btn-success" data-toggle="modal" data-target="#status2" href="#">Dokumen Diterima</a><br><br>
+                                                                    <a class="btn btn-success" data-toggle="modal" data-target="#status3" href="#">Dokumen Diproses</a><br><br>
+                                                                    <a class="btn btn-success" data-toggle="modal" data-target="#status4" href="#">Dokumen Disetujui</a><br><br>
+                                                                    <a class="btn btn-success" data-toggle="modal" data-target="#status5" href="#">Selesai</a>
+                                                                </div>
+                                                            </div>
+                                                            </td>
+                                                            <td>
+                                                                <a class="btn btn-success" data-toggle="modal" data-target="#upload" href="#">Upload Dokumen</a>
                                                             </td>
                                                         </tr>
                                                     </tbody>
@@ -164,6 +184,226 @@
                                 </div>
                             </div>
                             <!-- end row -->
+
+                                                        <!-- Konten Modal Status  -->
+                                                            <div id="status1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Diterima (Lanjut Upload Persyaratan)</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Diterima (Lanjut Upload Persyaratan)</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Diterima (Lanjut Upload Persyaratan)</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Dokumen Diterima</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Dokumen Diproses</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Dokumen Disetujui</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+
+                                                            <div id="status5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Perubahan Status</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Selesai</h5>
+                                                                            <p>Catatan :
+                                                                                <div class="form-group row">
+                                                                                    <div class="col-md-12">
+                                                                                        <textarea required class="form-control" rows="5"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+                                                            <!-- /.modal -->
+
+                                                            <!-- Konten Modal Upload -->
+                                                            <div id="upload" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                                <div class="modal-dialog ">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-header">
+                                                                            <h5 class="modal-title mt-0" id="myModalLabel">Upload Dokumen</h5>
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                                                <span aria-hidden="true">&times;</span>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="modal-body">
+                                                                            <h5 class="font-size-16">Upload</h5>
+                                                                                 <div>
+                                                                                    <form action="#" class="dropzone">
+                                                                                        <div class="fallback">
+                                                                                            <input name="file" type="file" multiple="multiple">
+                                                                                        </div>
+                                                                                        <div class="dz-message needsclick">
+                                                                                            <div class="mb-3">
+                                                                                                <i class="display-4 text-muted mdi mdi-cloud-upload-outline"></i>
+                                                                                            </div>
+                                                                                            
+                                                                                            <h4>Drop files here to upload</h4>
+                                                                                        </div>
+                                                                                    </form>
+                                                                                </div>
+                                                                        </div>
+                                                                        <div class="modal-footer">
+                                                                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Submit</button>
+                                                                        </div>
+                                                                    </div><!-- /.modal-content -->
+                                                                </div><!-- /.modal-dialog -->
+                                                            </div>
+                                                            <!-- /.modal -->
+                                                </td>
 
                         </div> <!-- container-fluid -->
                     </div>

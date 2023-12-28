@@ -27,6 +27,9 @@
         <!-- Sweet alert init js-->
         <script src="assets/js/pages/sweet-alerts.init.js"></script>
 
+        <!-- Drop Zone -->
+        <script src="assets/libs/dropzone/min/dropzone.min.js"></script>
+
         <script src="assets/js/app.js"></script>
 
          <!-- Required datatable js -->
@@ -49,6 +52,8 @@
 
         <!-- Datatable init js -->
         <script src="assets/js/pages/datatables.init.js"></script>
+
+
 
 
         
