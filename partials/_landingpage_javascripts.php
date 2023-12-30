@@ -23,3 +23,6 @@
 <script src="landing_page/js/appear.js"></script>
 <script src="landing_page/js/jquery-ui.js"></script>
 <script src="landing_page/js/script.js"></script>
+
+<script src="landing_page/js/jquery.js"></script>
+<script src="landing_page/js/timepicker.js"></script>

@@ -39,7 +39,7 @@
                                     </li>
                                     <li ><a href="landingpage_blog.php">Artikel</a>
                                     </li>
-                                    <li ><a href="#">Contact Us</a>
+                                    <li ><a href="landingpage_layanan.php">Penawaran</a>
                                     </li>
                                     <li ><a href="login.php">Login</a>
                                     </li>
@@ -52,7 +52,7 @@
                         </nav>
                         <!--Cart Box-->
                         <div class="cart-box">
-                        	<a href="shop-single.html"><span class="flaticon-phone-call"></span></a>
+                        	<a href="https://wa.link/1vrhuw" target="_blank"><span class="flaticon-phone-call"></span></a>
                         </div>
                         
                     </div>

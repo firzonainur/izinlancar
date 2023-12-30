@@ -1,4 +1,4 @@
-<!--Main Footer-->
+Main Footer-->
     <footer class="main-footer">
 		<div class="auto-container">
         	<!--Upper Box-->
@@ -7,7 +7,7 @@
                 	<!--Footer Logo-->
 					<div class="logo-column col-md-6 col-sm-6 col-xs-12">
                     	<div class="logo">
-                        	<a href="#"><img src="images/footer-logo.png" alt="" /></a>
+                        	<a href="#"><img src="images/logo-2.png" alt="" /></a>
                         </div>
                     </div>
                     <!--Nav Column-->
@@ -19,7 +19,7 @@
                                 <li><a href="#">Legal</a></li>
                             </ul>
                             <!--Search Box-->
-                            <div class="search-box-outer">
+                            <!-- <div class="search-box-outer">
                                 <div class="dropdown">
                                     <button class="search-box-btn dropdown-toggle" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="fa fa-search"></span></button>
                                     <ul class="dropdown-menu pull-right search-panel" aria-labelledby="dropdownMenu3">
@@ -35,7 +35,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -54,12 +54,12 @@
                             
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
-                                    <li class="our-branches dropdown"><a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#"><span class="icon flaticon-international"></span> <span class="toggle-text">Newyork</span> <span class="arrow fa fa-caret-down"></span></a>
-                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                                            <li data-tab="#network-one" class="tab-btn active-btn" data-toggle-text="Newyork">Newyork</li>
-                                            <li data-tab="#network-two" class="tab-btn" data-toggle-text="London">London</li>
-                                            <li data-tab="#network-three" class="tab-btn" data-toggle-text="Peris">Peris</li>
-                                        </ul>
+                                    <li class="our-branches dropdown"><a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#"><span class="icon flaticon-international"></span> <span class="toggle-text">Bantul, DIY</span> <span class="arrow fa fa-caret-down"></span></a>
+                                        <!-- <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                            <li data-tab="#network-one" class="tab-btn active-btn" data-toggle-text="Newyork"></li>
+                                            <li data-tab="#network-two" class="tab-btn" data-toggle-text="London"></li>
+                                            <li data-tab="#network-three" class="tab-btn" data-toggle-text="Peris"></li>
+                                        </ul> -->
                                     </li>
                                 </ul>
                                 
@@ -71,13 +71,13 @@
                                         <div class="content">
 											<div class="row clearfix">
                                             	<div class="column col-md-6 col-sm-12 col-xs-12">
-                                                	<div class="text">DE 198 Tech Road Bridge Str, Newyork 10026 United States.</div>
+                                                	<div class="text">Ds. Santan RT. 009, Joho, Jambidan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55195</div>
                                                 </div>
                                                 <div class="column col-md-6 col-sm-12 col-xs-12">
-                                                	<div class="text">Ph: 936.452.8005 <br> E: Mailus@ikonteam.com</div>
+                                                	<div class="text">082110203076<br>izinlancar@gmail.com</div>
                                                 </div>
                                             </div>
-                                            <div class="working-text"><span>Working hrs:</span> Mon - Satday: 9am to 5pm.</div>
+                                            <!-- <div class="working-text"><span>Working hrs:</span> Mon - Satday: 9am to 5pm.</div> -->
                                         </div>
                                     </div>
                                     
@@ -119,25 +119,24 @@
                     <!--Links Column-->
                     <div class="column links-column col-md-3 col-sm-6 col-xs-12">
                     	<ul class="links-footer">
-                        	<li><a href="#">About Company</a></li>
-                            <li><a href="#">Meet Experts</a></li>
-                            <li><a href="#">Our Case Studies</a></li>
-                            <li><a href="#">Get a Quote</a></li>
-                            <li><a href="#">Testimonials</a></li>
+                        	<li><a href="#">Home</a></li>
+                            <li><a href="#">Layanan</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Artikel</a></li>
+                            <li><a href="#">Penawaran</a></li>
                         </ul>
                     </div>
                     
                     <!--Appointment Column-->
                     <div class="column appointment-column col-md-4 col-sm-6 col-xs-12">
                     	<div class="inner-column">
-                        	<h2>Need Help of  Our Experts? <br> Make an Appoinemnt.</h2>
+                        	<h2>Butuh Konsultasi Kami? <br> buat penawaran anda</h2>
                             <!--Phone Number-->
                             <div class="phone-form">
                                 <form method="post" action="contact.html">
                                     <div class="form-group clearfix">
-                                        <input type="tel" name="number" value="" placeholder="Your Ph Num..." required>
-                                        <button type="submit" class="theme-btn subscribe-btn">Ok</button>
-                                    </div>
+                                       <a href="landingpage_layanan.php"> Ambil Penawaran</a>
+                                    </div>  
                                 </form>
                             </div>
                             
@@ -155,7 +154,7 @@
                 	
                     <!--Column-->
                     <div class="column col-md-6 col-sm-12 col-xs-12">
-                    	<div class="copyright">Copyright &copy; 2012-2018 The <a href="#">Ikon.</a> All rights reserved.</div>
+                    	<div class="copyright">Copyright &copy; 2024 The <a href="#">izinlancar.id</a> All rights reserved.</div>
                     </div>
                     
                     <!--Social Column-->
@@ -175,4 +174,4 @@
         </div>
         
     </footer>
-    <!--End Main Footer-->
+    <!--End Main Footer

@@ -1,5 +1,5 @@
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/9.jpg)">
+    <section class="page-title" style="background-image:url(images/main-slider/slider-1.png)">
     	<div class="auto-container">
         	<h1>About Company</h1>
             <ul class="page-breadcrumb">
@@ -17,26 +17,26 @@
             	
                 <!--Sec Title-->
                 <div class="sec-title centered">
-                	<div class="title">Who We Are</div>
-                    <h2>We are dedicated Team of Consultant</h2>
+                	<div class="title">Siapakah kita? </div>
+                    <h2>Kami adalah jasa konsultasi anda</h2>
                 </div>
-                <div class="title-text">Idea of denouncing pleasure and praising pain was born and we will give you a complete account the system of the great explorer of the truth master-builder.</div>
+                <div class="title-text">Izinlancar.id adalah platform penyedia jasa layanan dokumen perizinan yang membantu Anda dalam proses perizinan bisnis dan lain-lain.</div>
                 <div class="row clearfix">
                 
                 	<!--Content Column-->
                 	<div class="content-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="inner-column">
-                        	<h2>World’s Best <span class="theme_color">Consulting & Finance</span> <br> Solution Provider.</h2>
-                            <div class="text">We are a global management consulting firm that serves private, public and social business sectors . We help our clients make significant and and realize their most important goals who loves or pursues or desires to obtain pain of but because occasionally desires occur.</div>
-                            <div class="author">Nathan Missoray, <span class="theme_color">CEO & Founder</span></div>
-                            <div class="signature"><img src="images/icons/signature.png" alt="" /></div>
+                        	<h2>Izinlancar.id <span class="theme_color">Konsultan Dokumen Perizinan</span> <br> dan lain-lain </h2>
+                            <div class="text">Kami adalah konsultan yang bergerak pada bidang pengurusan berbagai perizinan usaha, pengurusan  penyusunan dokumen lingkungan hidup, sistem manajemen kesehatan dan keselamatan kerja (SMK3).</div>
+                            <div class="author">Bapak Zaidan, <span class="theme_color">CEO & Founder</span></div>
+                            <!-- <div class="signature"><img src="images/icons/signature.png" alt="" /></div> -->
                         </div>
                     </div>
                     
                     <!--Image Column-->
                 	<div class="image-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="image">
-                        	<img src="images/resource/consulting.jpg" alt="" />
+                        	<img src="images/background/bos.png" alt="" />
                         </div>
                     </div>
                     
@@ -51,8 +51,8 @@
     	<div class="auto-container">
         	<!--Sec Title-->
             <div class="sec-title light centered">
-            	<div class="title">Why Choose Us</div>
-                <h2>Reason For Choose Us</h2>
+            	<div class="title">Mengapa Memilih Kami</div>
+                <h2>VISI & MISI IZINLANCAR.ID</h2>
             </div>
             
             <!--Reason Block-->
@@ -66,13 +66,13 @@
                                 <div class="icon-box">
                                     <span class="icon flaticon-target-1"></span>
                                 </div>
-                                <h2>Our Mission</h2>
+                                <h2>Visi</h2>
                             </div>
                         </div>
                         <!--Content Column-->
                         <div class="content-column col-md-8 col-sm-12 col-xs-12">
                             <div class="inner-column">
-                                <div class="text">How all this mistaken idea of denouncing pleasure and praising pain was born and we will give you a complete account of the system, and expound the actual teachings.</div>
+                                <div class="text">Menjadi Perusahaan Jasa Konsultasi dalam bidang lingkungan dan perizinan yang layak dipertimbangkan diantara jajaran konsultan yang terdepan dan terpercaya.</div>
                             </div>
                         </div>
                         
@@ -91,13 +91,17 @@
                                 <div class="icon-box">
                                     <span class="icon flaticon-mail"></span>
                                 </div>
-                                <h2>Our Vision</h2>
+                                <h2>Misi</h2>
                             </div>
                         </div>
                         <!--Content Column-->
                         <div class="content-column col-md-8 col-sm-12 col-xs-12">
                             <div class="inner-column">
-                                <div class="text">Who do not know how to pursue pleasure rationally encounter consequences that are extremely pain anyone who loves or pursues or desires to obtain.</div>
+                                <div class="text">  1. Memberikan pelayanan terbaik bagi klien <br>
+                                                    2. Mengedapankan profesionalitas dan efektifitas dalam bekerja <br>
+                                                    3. Memperluas jaringan kerjasama <br>
+                                                    4. Mengembangkan kualitas SDM yang unggul dan mampu bersaing <br>
+                                </div>
                             </div>
                         </div>
                         
@@ -106,50 +110,6 @@
             </div>
             
             <!--Reason Block-->
-            <div class="reason-block">
-            	<div class="inner-block">
-                    <div class="row clearfix">
-                    
-                        <!--Title Column-->
-                        <div class="title-column col-md-4 col-sm-12 col-xs-12">
-                            <div class="inner-column">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-startup"></span>
-                                </div>
-                                <h2>Core Values</h2>
-                            </div>
-                        </div>
-                        <!--Content Column-->
-                        <div class="content-column col-md-8 col-sm-12 col-xs-12">
-                            <div class="inner-column">
-                                <div class="row clearfix">
-                                	<div class="column col-md-6 col-sm-6 col-xs-12">
-                                    	<ul class="reason-list">
-                                        	<li><a href="#">Commitment and Accountability</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="column col-md-6 col-sm-6 col-xs-12">
-                                    	<ul class="reason-list">
-                                        	<li><a href="#">Mutually-Beneficial Relationships</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="column col-md-6 col-sm-6 col-xs-12">
-                                    	<ul class="reason-list">
-                                        	<li><a href="#">Excellence in All We Do</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="column col-md-6 col-sm-6 col-xs-12">
-                                    	<ul class="reason-list">
-                                        	<li><a href="#">Learning and Development</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
             
         </div>
     </section>
@@ -168,38 +128,22 @@
                         	<div class="inner-column">
                                 <!--Title Box-->
                                 <div class="sec-title light">
-                                    <div class="title">Our History</div>
-                                    <h2>working Since 1978</h2>
+                                    <div class="title">Partnership</div>
+                                    <h2>Berikut detail pekerjaan yang sudah dikerjakan bersama media partner</h2>
                                 </div>
                                 <!--Tab Btns-->
                                 <ul class="tab-btns tab-buttons clearfix">
                                     <li data-tab="#p-tab-1" class="p-tab-btn active-btn">
                                         <span class="icon circle"></span>
-                                        <h4>1978</h4>
+                                        <h4>PT Inovasi Nusantara</h4>
                                     </li>
                                     <li data-tab="#p-tab-2" class="p-tab-btn">
                                        <span class="icon circle"></span>
-                                        <h4>1980</h4>
+                                        <h4>CV Media Karya</h4>
                                     </li>
                                     <li data-tab="#p-tab-3" class="p-tab-btn">
                                         <span class="icon circle"></span>
-                                        <h4>1982</h4>
-                                    </li>
-                                    <li data-tab="#p-tab-4" class="p-tab-btn">
-                                        <span class="icon circle"></span>
-                                        <h4>1983</h4>
-                                    </li>
-                                    <li data-tab="#p-tab-5" class="p-tab-btn">
-                                       <span class="icon circle"></span>
-                                        <h4>1984</h4>
-                                    </li>
-                                    <li data-tab="#p-tab-6" class="p-tab-btn">
-                                        <span class="icon circle"></span>
-                                        <h4>1987</h4>
-                                    </li>
-                                    <li data-tab="#p-tab-7" class="p-tab-btn">
-                                        <span class="icon circle"></span>
-                                        <h4>1988</h4>
+                                        <h4>Universitas Negeri Malang</h4>
                                     </li>
                                 </ul>
                             </div>
@@ -222,30 +166,10 @@
                                             <!--History Block-->
                                             <div class="history-block">
                                                 <div class="inner-block">
-                                                    <div class="year">1978</div>
-                                                    <h2>Hudge Corporate Project</h2>
+                                                    <div class="year">PT Inovasi Nusantara</div>
+                                                    <h2>Pembuatan Dokumen IMB</h2>
                                                     <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1978</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1978</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
+                                                    <div class="text ">Kami sangat puas atas pelayanan yang diberikan izinlancar.id dengan pembuatan dokumen NIB yang cepat dan persyaratan yang mudah</div>
                                                 </div>
                                             </div>
                                             
@@ -264,30 +188,10 @@
                                             <!--History Block-->
                                             <div class="history-block">
                                                 <div class="inner-block">
-                                                    <div class="year">1980</div>
-                                                    <h2>Hudge Corporate Project</h2>
+                                                    <div class="year">CV Media Karya</div>
+                                                    <h2>Pembuatan Dokumen IMB</h2>
                                                     <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1980</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1980</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
+                                                    <div class="text ">Kami sangat puas atas pelayanan yang diberikan izinlancar.id dengan pembuatan dokumen NIB yang cepat dan persyaratan yang mudah</div>
                                                 </div>
                                             </div>
                                             
@@ -303,201 +207,13 @@
                                         </a>
                                         <div class="single-item-carousel owl-carousel owl-theme">
                                             
-                                            <!--History Block-->
+                                             <!--History Block-->
                                             <div class="history-block">
                                                 <div class="inner-block">
-                                                    <div class="year">1982</div>
-                                                    <h2>Hudge Corporate Project</h2>
+                                                    <div class="year">Universitas Negeri Malang</div>
+                                                    <h2>Pembuatan Siteplan Gedung C19</h2>
                                                     <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1982</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1982</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Tab -->
-                                <div class="p-tab" id="p-tab-4">
-                                	<div class="tab-inner">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-btn">
-                                            <span class="icon flaticon-play-button-5"></span>
-                                        </a>
-                                        <div class="single-item-carousel owl-carousel owl-theme">
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1983</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1983</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1983</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Tab -->
-                                <div class="p-tab" id="p-tab-5">
-                                	<div class="tab-inner">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-btn">
-                                            <span class="icon flaticon-play-button-5"></span>
-                                        </a>
-                                        <div class="single-item-carousel owl-carousel owl-theme">
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1984</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1984</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1984</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Tab -->
-                                <div class="p-tab" id="p-tab-6">
-                                	<div class="tab-inner">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-btn">
-                                            <span class="icon flaticon-play-button-5"></span>
-                                        </a>
-                                        <div class="single-item-carousel owl-carousel owl-theme">
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1987</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1987</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1987</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Tab -->
-                                <div class="p-tab" id="p-tab-7">
-                                	<div class="tab-inner">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-btn">
-                                            <span class="icon flaticon-play-button-5"></span>
-                                        </a>
-                                        <div class="single-item-carousel owl-carousel owl-theme">
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1988</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1988</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
-                                                </div>
-                                            </div>
-                                            
-                                            <!--History Block-->
-                                            <div class="history-block">
-                                                <div class="inner-block">
-                                                    <div class="year">1988</div>
-                                                    <h2>Hudge Corporate Project</h2>
-                                                    <div class="date">March 26</div>
-                                                    <div class="text ">To take a trivial example, which us ever undertakes <br> laboriousphysical exercise, except to obtain <br> some advantage from it.</div>
+                                                    <div class="text ">Kami sangat puas atas pelayanan yang diberikan izinlancar.id dengan pembuatan SITEPLAN yang cepat dan persyaratan yang mudah</div>
                                                 </div>
                                             </div>
                                             
@@ -515,160 +231,115 @@
     </section>
     <!--End History Section-->
     
-    <!--Team Section-->
-    <section class="team-section">
-    	<div class="auto-container">
-        	<!--Sec Title-->
-            <div class="sec-title centered">
-            	<div class="title">Our Team</div>
-                <h2>Team Behind Our Company</h2>
-            </div>
-            <div class="row clearfix">
-            	
-                <!--Team Block-->
-                <div class="team-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/team-1.jpg" alt="" />
-                        </div>
-                        <div class="lower-box">
-                        	<h2>Donald T. Benjamin</h2>
-                            <div class="designation">Chairman & CEO</div>
-                        </div>
-                        <!--Overlay Box-->
-                        <div class="overlay-box">
-                        	<div class="overlay-content">
-                            	<h3><a href="#">Donald T. Benjamin</a></h3>
-                                <div class="overlay-designation">Chairman & CEO</div>
-                                <div class="text">Petercomb has over 20 years’ experience at multi-national companies.</div>
-                                <ul class="social-icon-three">
-                                    <li class="facebook"><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li class="vimeo"><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="youtube"><a href="#"><span class="fa fa-youtube"></span></a></li>
-                                </ul>
-                            </div>
-                            <div class="overlay-image" style="background-image:url(images/resource/team-1.jpg)"></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Team Block-->
-                <div class="team-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/team-3.jpg" alt="" />
-                        </div>
-                        <div class="lower-box">
-                        	<h2>Nichel M. Petercomb</h2>
-                            <div class="designation">Executive Leader</div>
-                        </div>
-                        <!--Overlay Box-->
-                        <div class="overlay-box">
-                        	<div class="overlay-content">
-                            	<h3><a href="#">Nichel M. Petercomb</a></h3>
-                                <div class="overlay-designation">Executive Leader</div>
-                                <div class="text">Petercomb has over 20 years’ experience at multi-national companies.</div>
-                                <ul class="social-icon-three">
-                                    <li class="facebook"><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li class="vimeo"><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="youtube"><a href="#"><span class="fa fa-youtube"></span></a></li>
-                                </ul>
-                            </div>
-                            <div class="overlay-image" style="background-image:url(images/resource/team-3.jpg)"></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Team Block-->
-                <div class="team-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/team-2.jpg" alt="" />
-                        </div>
-                        <div class="lower-box">
-                        	<h2>Markino Boucher</h2>
-                            <div class="designation">Consultant</div>
-                        </div>
-                        <!--Overlay Box-->
-                        <div class="overlay-box">
-                        	<div class="overlay-content">
-                            	<h3><a href="#">Markino Boucher</a></h3>
-                                <div class="overlay-designation">Consultant</div>
-                                <div class="text">Petercomb has over 20 years’ experience at multi-national companies.</div>
-                                <ul class="social-icon-three">
-                                    <li class="facebook"><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li class="vimeo"><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="youtube"><a href="#"><span class="fa fa-youtube"></span></a></li>
-                                </ul>
-                            </div>
-                            <div class="overlay-image" style="background-image:url(images/resource/team-2.jpg)"></div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Team Section-->
-    
-    <!--Dream Section-->
-    <section class="dream-section" style="background-image:url(images/background/5.jpg)">
-    	<div class="auto-container">
-        	<!--Title Box-->
+    <!--Contact Branches Section-->
+    <section class="contact-brances-section">
+        <div class="auto-container">
+            <!--Title Box-->
             <div class="title-box">
-            	<h2>Team Works Makes the Dream Work!.</h2>
-                <div class="title">Nothing is going to stop our business.</div>
-                <a href="#" class="theme-btn btn-style-three">Join With Us</a>
+                <h2>Kegiatan Kami</h2>
+                <div class="text">Kami mempunyai kegiatan dalam peningkatan kualitas izinlancar.id</div>
             </div>
+            <div class="branches-carousel owl-carousel owl-theme">
             
-            <div class="row clearfix">
-            	
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-chat-1"></span>
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
                         </div>
-                        <div class="text">Projects Completed by Our Experts.</div>
-                        <div class="total-number"><span class="number">125</span></div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
                     </div>
                 </div>
                 
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-conversation"></span>
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
                         </div>
-                        <div class="text">Our Team <br> conversation</div>
-                        <div class="total-number"><span class="number">125</span></div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
                     </div>
                 </div>
                 
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-medal"></span>
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
                         </div>
-                        <div class="text">Years of <br> Experience.</div>
-                        <div class="total-number"><span class="number">125</span></div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
                     </div>
                 </div>
                 
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-success"></span>
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
                         </div>
-                        <div class="text">100% Satisfied <br> Customers.</div>
-                        <div class="total-number"><span class="number">125</span></div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
+                        </div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
+                        </div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
+                        </div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Branch Block-->
+                <div class="contact-branch-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/background/dokumentasi.png" alt="" />
+                        </div>
+                        <div class="lower-box">
+                            <div class="text"> Kegiatan kami dalam acara <br> penyerahan dokumen perizinan <br> NIB </div>
+                        </div>
                     </div>
                 </div>
                 
             </div>
-            
         </div>
     </section>
+    <!--End Contact Branches Section-->
+    
+   
     <!--End Dream Section-->

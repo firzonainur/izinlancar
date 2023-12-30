@@ -188,59 +188,33 @@
         </ul>
     </section>
     <!--End Main Slider-->
-    
-    <!--Services Section-->
-    <section class="services-section-two">
-    	<div class="auto-container">
-        	<div class="outer-container">
-                <div class="clearfix">
-                    
-                    <!--Services Block three-->
-                    <div class="services-block-three col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="content">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-certificate"></span>
-                                </div>
-                                <h2><a href="financial.html">Licensed & Certified</a></h2>
-                                <div class="title">Company</div>
-                                <a href="financial.html" class="learn-more">Learn More <span class="icon flaticon-right-arrow-4"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!--Services Block three-->
-                    <div class="services-block-three col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="content">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-manager"></span>
-                                </div>
-                                <h2><a href="financial.html">We Are Professional</a></h2>
-                                <div class="title">Consultant</div>
-                                <a href="financial.html" class="learn-more">Learn More <span class="icon flaticon-right-arrow-4"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!--Services Block three-->
-                    <div class="services-block-three col-md-4 col-sm-12 col-xs-12">
-                        <div class="inner-box">
-                            <div class="content">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-bullseye"></span>
-                                </div>
-                                <h2><a href="financial.html">Quick Response</a></h2>
-                                <div class="title">24/ 7 Service</div>
-                                <a href="financial.html" class="learn-more">Learn More <span class="icon flaticon-right-arrow-4"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
+
+    <!--Clients Section-->
+    <section class="clients-section-two">
+        <div class="auto-container">
+            <div class="sponsors-outer">
+                <!--Sponsors Carousel-->
+
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+                </ul>
             </div>
         </div>
     </section>
+    <!--End Clients Section-->
+
+
+    
+    <!--Services Section-->
     <!--End Services Section-->
     
     <!--Services Section Three-->
@@ -249,7 +223,7 @@
         	<!--Sec Title-->
             <div class="sec-title centered">
             	<div class="title">Apa yang kami lakukan</div>
-                <h2>Our Main Services</h2>
+                <h2>Produk Unggulan</h2>
             </div>
             
             <div class="row clearfix">
@@ -258,7 +232,7 @@
                 <div class="services-block-four col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="images/resource/service-3.jpg" alt="" />
+                        	<img src="images/layanan/layanan-1.png" alt="" />
                             <div class="icon-box">
                             	<span class="icon flaticon-book"></span>
                             </div>
@@ -269,9 +243,9 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="financial.html">Financial Planning</a></h3>
-                            <div class="text">Mistaken idea of denouncing pleasure & praising pain was born and will gives complete of the system.</div>
-                            <a href="financial.html" class="read-more">Read More</a>
+                        	<h3><a href="financial.html">Pembuatan Nomor Induk Berusaha</a></h3>
+                            <div class="text">Kami membantu anda dalam pembuatan Nomor Induk Berusaha secara profesional</div>
+                            <!-- <a href="financial.html" class="read-more">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -280,7 +254,7 @@
                 <div class="services-block-four col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="images/resource/service-4.jpg" alt="" />
+                        	<img src="images/layanan/layanan-2.png" alt="" />
                             <div class="icon-box">
                             	<span class="icon flaticon-3d-printing-software"></span>
                             </div>
@@ -291,9 +265,9 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="software.html">Software & Research</a></h3>
-                            <div class="text">Mistaken idea of denouncing pleasure & praising pain was born and will gives complete of the system.</div>
-                            <a href="software.html" class="read-more">Read More</a>
+                        	<h3><a href="software.html">KKPR/PKKPR/ITR/KRK</a></h3>
+                            <div class="text">Kami melayani pembuatan perizinan terkait tata ruang untuk UMK seperti KKPR/PKKPR/ITR/KRK</div>
+                            <!-- <a href="software.html" class="read-more">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -302,7 +276,7 @@
                 <div class="services-block-four col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="images/resource/service-5.jpg" alt="" />
+                        	<img src="images/layanan/layanan-3.png" alt="" />
                             <div class="icon-box">
                             	<span class="icon flaticon-employee"></span>
                             </div>
@@ -313,9 +287,9 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="business.html">Business Services</a></h3>
-                            <div class="text">Mistaken idea of denouncing pleasure & praising pain was born and will gives complete of the system.</div>
-                            <a href="business.html" class="read-more">Read More</a>
+                        	<h3><a href="business.html">SPPL</a></h3>
+                            <div class="text"> Kami Melayani Pembuatan Surat Pernyataan Kesanggupan Pengelolaan dan Pemantauan untuk UMK </div>
+                            <!-- <a href="business.html" class="read-more">Read More</a> -->
                         </div>
                     </div>
                 </div>
@@ -325,12 +299,26 @@
         </div>
     </section>
     <!--End Services Section Three-->
+
+    <!--Dream Section-->
+    <section class="dream-section" style="background-image:url(images/background/bg-wa.png)">
+        <div class="auto-container">
+            <!--Title Box-->
+            <div class="title-box">
+                <h2>Konsultasi Dengan Kami Via Whatsapp</h2>
+                <div class="title">Klik tombol berikut</div>
+                <a href="https://wa.link/1vrhuw" target="_blank" class="theme-btn btn-style-three">Konsultasi</a>
+            </div>
+            
+        </div>
+    </section>
+    <!--End Dream Section-->
     
     <!--Fluid Section One-->
     <section class="fluid-section-one">
     	<div class="outer-container clearfix">
         	<!--Image Column-->
-            <div class="image-column" style="background-image:url(images/resource/image-1.png);">
+            <div class="image-column" style="background-image:url(images/background/penawaran.png);">
             	<figure class="image-box"><img src="images/resource/image-1.png" alt=""></figure>
             </div>
         	<!--Content Column-->
@@ -338,409 +326,33 @@
             	<div class="inner-column">
 					<!--Sec Title-->
                     <div class="sec-title">
-                    	<div class="title">Who We Are</div>
-                        <h2>We are dedicated Team of Consultant</h2>
+                    	<div class="title">Anda Tertarik ?</div>
+                        <h2> Kami Siap Membantu Anda</h2>
                     </div>
                     <div class="text">
-                    	<p>Idea of denouncing pleasure and praising pain was born and we will system of the great explorer masterbuilder.</p>
-                        <h3>World’s Best <span>Consulting & Finance</span><br> Solution Provider.</h3>
-                        <p>We are a global management consulting firm that serves private, public and social business sectors . We help our clients make significant and and realize their most important goals who loves or pursues or desires to obtain pain of but because occasionally desires occur.</p>
+                    	<p>Apakah Anda merasa kewalahan dengan proses pembuatan dokumen resmi yang rumit? Kami punya solusinya! <br>
+
+                            Kami adalah mitra terpercaya dalam menyediakan berbagai jenis dokumen resmi, termasuk: <br>
+
+                            ✅ Surat Izin Usaha (NIB) <br>
+                            ✅ Surat Kontrak dan Perjanjian <br>
+                            ✅ Dokumen Legalitas Perusahaan <br>
+                            ✅ Surat Keterangan dan Bukti Resmi Lainnya <br>
+
+                            Mengapa Memilih Kami? <br> 
+                            🌟 Pengalaman Luar Biasa: Kami telah melayani ribuan pelanggan dengan kepuasan tinggi. <br>  
+                            🌟 Tim Profesional: Kami memiliki tim ahli yang siap membantu Anda. <br>
+                            🌟 Proses Cepat: Dokumen Anda akan selesai dengan cepat tanpa gangguan. <br>
+
+                            Tinggalkan pekerjaan berat ini kepada kami, dan Anda bisa fokus pada bisnis Anda. Hubungi kami hari ini untuk konsultasi gratis! Jangan biarkan dokumen resmi menjadi kendala dalam kemajuan bisnis Anda.</p>
                     </div>
-                    <div class="author-info">Nathan Missoray, <span>CEO & Founder</span></div>
-                    <div class="signature"><img src="images/icons/signature.png" alt="" /></div>
+                    
+                    <a href="#" class="theme-btn btn-style-two">Ajukan Penawaran</a>
                 </div>
             </div>
         </div>
     </section>
     <!--End Fluid Section One-->
-    
-    <!--Dream Section-->
-    <section class="dream-section" style="background-image:url(images/background/5.jpg)">
-    	<div class="auto-container">
-        	<!--Title Box-->
-            <div class="title-box">
-            	<h2>Team Works Makes the Dream Work!.</h2>
-                <div class="title">Nothing is going to stop our business.</div>
-                <a href="#" class="theme-btn btn-style-three">Join With Us</a>
-            </div>
-            
-            <div class="row clearfix">
-            	
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-chat-1"></span>
-                        </div>
-                        <div class="text">Projects Completed by Our Experts.</div>
-                        <div class="total-number"><span class="number">125</span></div>
-                    </div>
-                </div>
-                
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-conversation"></span>
-                        </div>
-                        <div class="text">Our Team <br> conversation</div>
-                        <div class="total-number"><span class="number">125</span></div>
-                    </div>
-                </div>
-                
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-medal"></span>
-                        </div>
-                        <div class="text">Years of <br> Experience.</div>
-                        <div class="total-number"><span class="number">125</span></div>
-                    </div>
-                </div>
-                
-                <!--Dream Block-->
-                <div class="dream-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-success"></span>
-                        </div>
-                        <div class="text">100% Satisfied <br> Customers.</div>
-                        <div class="total-number"><span class="number">125</span></div>
-                    </div>
-                </div>
-                
-            </div>
-            
-        </div>
-    </section>
-    <!--End Dream Section-->
-    
-    <!--Projects Section-->
-    <section class="projects-section">
-    	<div class="auto-container">
-        	<!--Sec Title-->
-            <div class="sec-title centered">
-            	<div class="title">Our Works</div>
-                <h2>Our Latest Projects</h2>
-            </div>
-            <div class="project-carousel owl-carousel owl-theme">
-            	
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Collective Approach</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Travel & Hospitality</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Collective Approach</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Travel & Hospitality</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Collective Approach</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Project Block-->
-                <div class="project-block">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="images/resource/project-1.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<div class="overlay-inner">
-                                	<div class="category">Travel & Hospitality</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="content-inner">
-                            	<h2>Business Consultancy Corporate Consultancy Solutions</h2>
-                                <div class="text">Explain to you how all this mistaken idea of there anyone who loves or pursues.</div>
-                                <a href="case-single.html" class="go">Go through</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Projects Section-->
-    
-    <!--Testimonial Section Two-->
-    <section class="testimonial-section-two" style="background-image:url(images/background/6.jpg)">
-    	<div class="auto-container">
-        	<div class="inner-container">
-            	<div class="row clearfix">
-                	
-                    <!--Video Column-->
-                    <div class="video-column col-md-6 col-sm-12 col-xs-12">
-                    	<div class="inner-column">
-                        	<div class="image">
-                            	<img src="images/resource/video-img.jpg" alt="" />
-                                <div class="video-content">
-                                	<div class="content-inner">
-                                    	<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-button-5"></span></a>
-                                		<h3>Petercomb</h3>
-                                    	<div class="designation">President of Sun Solutions</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!--Carousel Column-->
-                    <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
-                    	<div class="inner-column">
-                        	
-                            <div class="single-item-carousel owl-carousel owl-theme">
-                            
-                            	<!--Testimonial Block Two-->
-                                <div class="testimonial-block-two">
-                                	<div class="inner-box">
-                                    	<div class="icon-box">
-                                        	<span class="icon flaticon-left-quote-1"></span>
-                                        </div>
-                                        <div class="text">Idea of denouncing pleasure & praising pain was born and I will give you a complete account of the system, and expound the actual teachings.</div>
-                                        <div class="author-image">
-                                        	<img src="images/resource/author-2.jpg" alt="" />
-                                        </div>
-                                        <h3>Richardson</h3>
-                                        <div class="designation">CEO & Founder of Vinus Tech</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Testimonial Block Two-->
-                                <div class="testimonial-block-two">
-                                	<div class="inner-box">
-                                    	<div class="icon-box">
-                                        	<span class="icon flaticon-left-quote-1"></span>
-                                        </div>
-                                        <div class="text">Idea of denouncing pleasure & praising pain was born and I will give you a complete account of the system, and expound the actual teachings.</div>
-                                        <div class="author-image">
-                                        	<img src="images/resource/author-2.jpg" alt="" />
-                                        </div>
-                                        <h3>Richardson</h3>
-                                        <div class="designation">CEO & Founder of Vinus Tech</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Testimonial Block Two-->
-                                <div class="testimonial-block-two">
-                                	<div class="inner-box">
-                                    	<div class="icon-box">
-                                        	<span class="icon flaticon-left-quote-1"></span>
-                                        </div>
-                                        <div class="text">Idea of denouncing pleasure & praising pain was born and I will give you a complete account of the system, and expound the actual teachings.</div>
-                                        <div class="author-image">
-                                        	<img src="images/resource/author-2.jpg" alt="" />
-                                        </div>
-                                        <h3>Richardson</h3>
-                                        <div class="designation">CEO & Founder of Vinus Tech</div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                </div>
-                <!--Big Title-->
-                <div class="big-title">Q</div>
-            </div>
-        </div>
-    </section>
-    <!--End Testimonial Section Two-->
-    
-    <!--Featured Section-->
-    <section class="featured-section">
-    	<div class="auto-container">
-        	<!--Sec Title-->
-            <div class="sec-title centered">
-            	<div class="title">Why Us</div>
-                <h2>Our skills & Features</h2>
-            </div>
-            
-            <div class="row clearfix">
-            
-            	<!--Skill Column-->
-                <div class="skill-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="text">Denouncing pleasure and praising pain was born and we will give you a complete the actual teachings.</div>
-                        
-                        <!--Skills-->
-                        <div class="skills">
-                            <!--Skill Item-->
-                            <div class="skill-item">
-                                <div class="skill-header clearfix">
-                                    <div class="skill-title">Digital Marketing</div>
-                                </div>
-                                <div class="skill-bar">
-                                	<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="60">0</span>%</div></div>
-                                    <div class="bar-inner"><div class="bar progress-line" data-width="60"></div></div>
-                                </div>
-                            </div>
-                            <!--Skill Item-->
-                            <div class="skill-item">
-                                <div class="skill-header clearfix">
-                                    <div class="skill-title">Travel & Aviation</div>
-                                </div>
-                                <div class="skill-bar">
-                                	<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="92">0</span>%</div></div>
-                                    <div class="bar-inner"><div class="bar progress-line" data-width="92"></div></div>
-                                </div>
-                            </div>
-                            <!--Skill Item-->
-                            <div class="skill-item">
-                                <div class="skill-header clearfix">
-                                    <div class="skill-title">Quality Resourcing</div>
-                                </div>
-                                <div class="skill-bar">
-                                	<div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="78">0</span>%</div></div>
-                                    <div class="bar-inner"><div class="bar progress-line" data-width="78"></div></div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-                <!--Feature Column-->
-                <div class="feature-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	
-                        <!--Featured Block-->
-                        <div class="featured-block">
-                        	<div class="featured-inner">
-                            	<div class="icon-box">
-                                	<span class="icon flaticon-market"></span>
-                                </div>
-                                <h3><a href="#">Online Companies</a></h3>
-                                <div class="text">There anyone who loves or pursues or desires to obtain pain of itself circumstances.</div>
-                            </div>
-                        </div>
-                        
-                        <!--Featured Block-->
-                        <div class="featured-block">
-                        	<div class="featured-inner">
-                            	<div class="icon-box">
-                                	<span class="icon flaticon-select-1"></span>
-                                </div>
-                                <h3><a href="#">Software Vendors</a></h3>
-                                <div class="text">Master-builder of human happiness one rejects, dislikes, or avoids pleasure itself.</div>
-                            </div>
-                        </div>
-                        
-                        <!--Featured Block-->
-                        <div class="featured-block">
-                        	<div class="featured-inner">
-                            	<div class="icon-box">
-                                	<span class="icon flaticon-light-bulb"></span>
-                                </div>
-                                <h3><a href="#">High-Tech Manufacturers</a></h3>
-                                <div class="text">Which of us ever undertakes laborious physical except obtain some advantage.</div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-            </div>
-            
-        </div>
-    </section>
-    <!--End Featured Section-->
     
     <!--News Section-->
     <section class="news-section style-two">
@@ -816,24 +428,4 @@
     </section>
     <!--End News Section-->
     
-    <!--Clients Section-->
-    <section class="clients-section-two">
-    	<div class="auto-container">
-        	<div class="sponsors-outer">
-                <!--Sponsors Carousel-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                </ul>
-            </div>
-		</div>
-    </section>
-    <!--End Clients Section-->
+    
