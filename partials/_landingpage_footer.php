@@ -1,4 +1,3 @@
-Main Footer-->
     <footer class="main-footer">
 		<div class="auto-container">
         	<!--Upper Box-->
@@ -174,4 +173,3 @@ Main Footer-->
         </div>
         
     </footer>
-    <!--End Main Footer

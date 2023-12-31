@@ -41,6 +41,8 @@
                                     </li>
                                     <li ><a href="landingpage_layanan.php">Penawaran</a>
                                     </li>
+                                    <li ><a href="landingpage_kontak.php">Contact Us</a>
+                                    </li>
                                     <li ><a href="login.php">Login</a>
                                     </li>
                                     <li ><a href="register.php">Daftar</a>
